@@ -1,0 +1,53 @@
+/* start flexbox */
+.d-flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+/* padding + margin */
+.mt-0 {
+  margin-top: 0;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.m-20 {
+  margin: 20px;
+}
+
+/* border */
+.rad-6 {
+  border-radius: 6px;
+}
+
+/* color */
+.c-black {
+  color: black;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+/* position */
+.p-relative {
+  position: relative;
+}
+
+/* font */
+.txt-c {
+  text-align: center;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
