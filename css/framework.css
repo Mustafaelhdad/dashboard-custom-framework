@@ -1,3 +1,13 @@
+/* global */
+:root {
+  --blue-color: #0075ff;
+  --blue-alt-color: #0d69d5;
+  --orange-color: #f59e0b;
+  --green-color: #22c55e;
+  --red-color: #f44336;
+  --grey-color: #888;
+}
+
 /* start flexbox */
 .d-flex {
   display: flex;
@@ -50,4 +60,16 @@
 
 .fs-14 {
   font-size: 14px;
+}
+
+/* width & height */
+.w-full {
+  width: 100%;
+}
+
+/* components */
+.between-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
